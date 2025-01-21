@@ -1,0 +1,5 @@
+0 Acne White Comedo
+1 Acne Nodulus
+2 Acne Pustule
+3 Acne Papule
+4 Acne Black Comedo

@@ -1,0 +1,2 @@
+0 Non Acne
+1 Acne

@@ -1,0 +1,10 @@
+TensorFlow==2.18.0
+Keras==3.7.0
+NumPy==1.26.4
+Matplotlib==3.9.2
+scikit-learn==1.5.1
+pandas==1.5.3
+plotly==5.15.0
+streamlit==1.23.0
+pillow==9.5.0
+streamlit-option-menu==0.3.2
