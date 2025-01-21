@@ -170,7 +170,7 @@ def display():
             prediction = acne_severity_model.predict(data, verbose=0)
             
             if isinstance(prediction, dict):
-                prediction = prediction['sequential_11']
+                prediction = prediction['sequential_3']
             
             index = np.argmax(prediction[0])  # Assuming prediction is a batch
             severity_name = labels[index]
